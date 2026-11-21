@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         VENV_DIR = 'venv'
-        DEPLOY_DIR = 'D:\\BackupFromG\\SAU\\class\\632218\\ws\\jenkins1\\deploy'
+        DEPLOY_DIR = 'D:\\class\\632218\\691\\ws\\deploy'
     }
 
     options {
